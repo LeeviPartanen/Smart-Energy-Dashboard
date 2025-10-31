@@ -43,16 +43,5 @@ Output directory: `dist/`
 - Open-Meteo API (weather)
 
 
-## 💡 Portfolio Tips
-- Add a demo badge and screenshot:
-```md
-[![Live Demo](https://img.shields.io/badge/demo-online-green)](https://smart-energy-dashboard.vercel.app/)
-```
-- In your README, include:
-- A screenshot under `/docs/screenshot.png`
-- Technical breakdown of architecture
-- Future improvements (PWA, authentication, AI-based predictions)
-
-
 ## 🧾 License
 MIT
